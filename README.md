@@ -6,3 +6,4 @@ The research on the model mainly focuses on its benefits, such as how to improve
 This article [The Dat Project, an open and decentralized research data tool] (https://www.nature.com/articles/sdata2018221) talks about the present scientific data are stored and accessed through centralized web-based infrastructure, however, there are many risks such as content drift which can cause great damage to data security. 
 The Dat project is an open source, and it is a combined decentralized tool for file sharing and storing research information. It allows for secure sharing of large datasets and secure data backup, and it has a automatic file version controlled archive which can let each user to have collaboration online. Dat also allows collaboration between peers, this interaction makes it more resistant to data loss and is more secure and private than centralized databases. 
 
+Done
