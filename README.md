@@ -1,3 +1,8 @@
 # Contemporary Issues In Data
+## Article 1
+The article [Sharing Model Based on Master Data Management] (https://www.researchgate.net/publication/321581399_Research_on_Centralized_Data-Sharing_Model_Based_on_Master_Data_Management) focuses on analyzing rhe data-sharing model used for information centres in Chinese universities. It studies the centralized data-sharing model based on master data management (MDM) which combines the centralized management and governance of data across organizations such as universities and colleges. 
+The research on the model mainly focuses on its benefits, such as how to improve data efficienty, quality, consistency, and cost savings. When they are implementing this model, there is difficulty to have such effective data management process and tools. This research tells that they have successfully implemented a centralized data-sharing model with well planned strategy. 
+## Article 2
+This article [The Dat Project, an open and decentralized research data tool] (https://www.nature.com/articles/sdata2018221) talks about the present scientific data are stored and accessed through centralized web-based infrastructure, however, there are many risks such as content drift which can cause great damage to data security. 
+The Dat project is an open source, and it is a combined decentralized tool for file sharing and storing research information. It allows for secure sharing of large datasets and secure data backup, and it has a automatic file version controlled archive which can let each user to have collaboration online. Dat also allows collaboration between peers, this interaction makes it more resistant to data loss and is more secure and private than centralized databases. 
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
